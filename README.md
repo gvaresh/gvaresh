@@ -8,15 +8,15 @@ Here are some ideas to get you started:
 <h3 align="center">Professional Ruby On Rails Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kananinirav&label=Profile%20views&color=0e75b6&style=flat" alt="kananinirav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gvaresh&label=Profile%20views&color=0e75b6&style=flat" alt="gvaresh" /> </p>
 
 - 🌱 I’m currently learning React JS and AWS Cloud
 
-- 👨‍💻 All of my projects are available at [https://github.com/kananinirav](https://github.com/kananinirav)
+- 👨‍💻 All of my projects are available at [https://github.com/gvaresh](https://github.com/gvaresh)
 
 - 📝 I regularly write articles on [https://medium.com/@kanani-nirav](https://medium.com/@kanani-nirav)
 
-- 📫 How to reach me **kananinirav0@gmail.com**
+- 📫 How to reach me **gvaresh0@gmail.com**
 
 <p><img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></p>
 
@@ -47,19 +47,19 @@ Here are some ideas to get you started:
 <a href="https://dev.to/kanani_nirav" target="blank"><img align="center" src="./icons/devto.svg" alt="kanani_nirav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirav-kanani" target="blank"><img align="center" src="./icons/linked-in-alt.svg" alt="nirav-kanani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12288988/nirav-kanani" target="blank"><img align="center" src="./icons/stack-overflow.svg" alt="nirav-kanani" height="30" width="40" /></a>
-<a href="https://twitter.com/kananinirav1" target="blank"><img align="center" src="./icons/twitter.svg" alt="kananinirav1" height="30" width="40" /></a>
+<a href="https://twitter.com/gvaresh1" target="blank"><img align="center" src="./icons/twitter.svg" alt="gvaresh1" height="30" width="40" /></a>
 </p>
 
 ## ✨GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kananinirav&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kananinirav&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gvaresh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gvaresh&theme=tokyonight" />
 </div>
 
 <br/>
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kananinirav&theme=nord)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gvaresh&theme=nord)
 
 #### If you find the content is interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
-<a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/gvaresh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
