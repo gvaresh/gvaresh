@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://medium.com/@gandhamvaresh" target="blank"><img align="center" src="./icons/medium.svg" alt="@vareshg" height="30" width="40" /></a>
-<a href="https://dev.to/gandhamvaresh" target="blank"><img align="center" src="./icons/devto.svg" alt="@vareshg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/varesh-gandham-7b63721b" target="blank"><img align="center" src="./icons/linked-in-alt.svg" alt="@vareshg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11946521/varesh-gandham" target="blank"><img align="center" src="./icons/stack-overflow.svg" alt="@vareshg"  height="30" width="40" /></a>
+<a href="https://medium.com/@gandhamvaresh" target="blank"><img align="center" src="./medium.svg" alt="@vareshg" height="30" width="40" /></a>
+<a href="https://dev.to/gandhamvaresh" target="blank"><img align="center" src="./devto.svg" alt="@vareshg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varesh-gandham-7b63721b" target="blank"><img align="center" src="./linked-in-alt.svg" alt="@vareshg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11946521/varesh-gandham" target="blank"><img align="center" src="./stack-overflow.svg" alt="@vareshg"  height="30" width="40" /></a>
 </p>
 
 ## ✨GitHub Stats
