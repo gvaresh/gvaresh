@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [How to Monitor and Alert Docker Container Status on EC2 for High Availability](https://medium.com/cloud-native-daily/how-to-monitor-and-alert-docker-container-status-on-ec2-for-high-availability-475b0b65e04?source=rss-9ad7dce5400b------2)
 - [The Five Lines of Code Principle: Why Less is More in Programming](https://medium.com/@kanani-nirav/the-five-lines-of-code-principle-why-less-is-more-in-programming-12ff4446205?source=rss-9ad7dce5400b------2)
  -->
-🔗 **[For More Blogs](https://medium.com/@kanani-nirav)**
+🔗 **[For More Blogs](https://www.linkedin.com/in/varesh-gandham-7b63721b/recent-activity/all/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
